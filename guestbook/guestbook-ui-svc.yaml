@@ -10,3 +10,4 @@ spec:
     nodePort: 30003
   selector:
     app: guestbook-ui
+ 
